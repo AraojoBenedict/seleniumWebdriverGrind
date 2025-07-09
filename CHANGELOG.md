@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AraojoBenedict/eduforge/compare/v1.0.0...v1.0.1) (2025-07-09)
+
+
+### Bug Fixes
+
+* deleted blankpage3 ([9e27eb5](https://github.com/AraojoBenedict/eduforge/commit/9e27eb57b78ba7b00a8758d6603cd6b2993966a1))
+
 # 1.0.0 (2025-07-09)
 
 
