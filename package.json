@@ -1,0 +1,18 @@
+{
+  "name": "eduforge",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000d\u0000u\u0000f\u0000o\u0000r\u0000g\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.3",
+    "semantic-release": "^24.2.6"
+  }
+}
