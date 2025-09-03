@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/AraojoBenedict/seleniumWebdriverGrind/compare/v1.0.1...v1.0.2) (2025-09-03)
+
+
+### Bug Fixes
+
+* fix formatting readme ([68f8e36](https://github.com/AraojoBenedict/seleniumWebdriverGrind/commit/68f8e36281c130b5ed0884e5528f79a90dcc5019))
+
 ## [1.0.1](https://github.com/AraojoBenedict/eduforge/compare/v1.0.0...v1.0.1) (2025-07-09)
 
 
